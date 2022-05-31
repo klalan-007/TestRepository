@@ -3,7 +3,8 @@
 <head>
 <title>Palindrome!</title>
 </head>
-<body> <h1>Read Reverse!</h1>
+<body> 
+
 <p>MADAM</p>
 <p>RADAR</p>
 <p>RAFTAR</p>
