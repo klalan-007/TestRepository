@@ -5,5 +5,7 @@
 </head>
 <body> <h1>Twist your tongue a little!</h1>
 <p>She sells sea shells on the sea shore.</p>
-<p>Betty bought a better butter to make the bitter butter better.</p> </body>
+<p>Betty bought a better butter to make the bitter butter better.</p>
+<p>She is a good girl.</p>
+ </body>
 </html>
